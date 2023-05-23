@@ -1,0 +1,7 @@
+jira:
+   secret: ATATT3xFfGF0Sec3Hjyk86BU_8WqKt_9uYoyDR8UsUx4ltm_2l1axxqZlM18t8uwyUXZQAyAmaJskbtiCw7nF02GQEgAxFnjZkALDQFc_KYKyrC2Gw3SvsiFSH1dLjhBHBUAzyRZhMNg0z7MlpvUCAcsbUPJSZlAKnVp_zWdeOj2Iz_e9U479l8=B354DE00
+   user-name: tejasvinidhumal49@gmail.com
+   base-url: https://iaurosystems.atlassian.net
+   ticket-url: /rest/api/2/issue
+server:
+  port: 8081
